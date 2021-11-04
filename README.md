@@ -1,14 +1,10 @@
 # Awesome Profile Cards
 
-Awesome Profile-Cards es una aplicación web que nos permite crear una tarjeta de visita personalizada de forma instantánea.
-
-La web está formada por una página landing que enlaza con otra en la que personalizar contenido y diseño y que está diseñada para ser compatida.
+Awesome Profile-Cards es una aplicación web que nos permite crear una tarjeta de visita personalizada de forma instantánea. La web está formada por una página landing que enlaza con otra en la que personalizar contenido y diseño y que está diseñada para ser compatida.
 
 Para poder realizar tu tarjeta virtual debes elegir una paleta de colores, rellenar los campos con tus datos y pulsar el botón de generar. El resultado es un link con la URL de tu tarjeta virtual, que podrás compartir en twiter o cualquier otro medio.
 
-Awesome Profile-Cards is a web application that allows us to create a personalised business card instantly.
-
-The website consists of a landing page that links to another page where you can customise content and design and is designed to be compatible.
+Awesome Profile-Cards is a web application that allows us to create a personalised business card instantly. The website consists of a landing page that links to another page where you can customise content and design and is designed to be compatible.
 
 In order to create your virtual card you must choose a colour palette, fill in the fields with your details and click on the generate button. The result is a link with the URL of your virtual card, which you can share on twitter or any other media.
 
